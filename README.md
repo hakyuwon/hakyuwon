@@ -1,4 +1,4 @@
-## about me !
+## About Me !
 
 ### 🦖 Tech Stack 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
