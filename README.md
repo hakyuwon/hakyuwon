@@ -11,8 +11,8 @@
 
 ### 🐸 kyuwon's GitHub Stats
 
-![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakyuwon)](https://github.com/anuraghazra/github-readme-stats)
+![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakyuwon&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
