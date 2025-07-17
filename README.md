@@ -13,7 +13,7 @@
 
 ### 🐸 kyuwon's GitHub Stats
 
-![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&show_icons=true&theme=nightowl)
+![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&show_icons=true&theme=vuel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakyuwon&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
