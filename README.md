@@ -9,8 +9,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
- 
-### ☆ kyuwon's GitHub Stats
 
 ![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&hide=stars&show_icons=true)
 ---
