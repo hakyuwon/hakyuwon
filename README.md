@@ -12,8 +12,7 @@
  
 ### ☆ kyuwon's GitHub Stats
 
-![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&hide=stars&show_icons=true&theme=vue)
-
+![hakyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakyuwon&hide=stars&show_icons=true)
 ---
 
 ### ☆ currently learning ...
