@@ -1,4 +1,15 @@
-### Tech Stacks
+## 👋 Hi, I'm Kyuwon
+I'm comfortable with both frontend and backend development.
+
+### 🎯 Interests
+
+- AI & Infrastructure
+- System Architecture
+- Sustainability
+- Books & Music
+
+
+### 👩‍💻 Tech Stacks
 <div> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -9,7 +20,7 @@
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
  <br>
 </div>
----
+
 
 <!--
 **hakyuwon/hakyuwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
