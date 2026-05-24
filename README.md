@@ -3,8 +3,8 @@ I'm comfortable with both frontend and backend development.
 
 ### 🎯 Interests
 
+- Full-stack development
 - AI & Infrastructure
-- System Architecture
 - Sustainability
 - Books & Music
 
